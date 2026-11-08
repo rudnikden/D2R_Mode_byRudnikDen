@@ -1,0 +1,13 @@
+# Game tables: Blizzard's data, extracted locally by generator/extract.ps1
+generator/gamedata/
+
+# Personal D2RMM settings
+config.json
+
+# Scratch and backups
+*.bak*
+*.log
+node_modules/
+
+# Release zips built by build.cmd
+dist/
